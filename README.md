@@ -12,11 +12,12 @@
 
 | Status | Working |
 | --- | --- |
-| Trackpad | Working gestures, but slow... |
+| Trackpad | Working perfect! |
 | WiFI | Working perfect! |
 | Bluetooth | Working perfect! |
 | Audio | Working perfect! |
 
 
-![alt image](https://i.ibb.co/G2h1zX0/2024-08-16-01-00-31.jpg)
+New: Some fixes and new screenshot.
+![alt image](https://raw.githubusercontent.com/Lesano/DELL7280Sonoma/main/Screenshot.png)
 
